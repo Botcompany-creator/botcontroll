@@ -1,6 +1,4 @@
-git remoto adicionar origem https://github.com/Botcompany-creator/botcontroll.git
- git branch -M main 
-git push -u origin main
+
 
 
 
